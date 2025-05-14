@@ -1,4 +1,4 @@
-#  Have done some anlysis on sale of bikes using puthon if you to run the code do dowloand the csv and code make sure to change to chnage file loaction in code where you will store this csv file) 
+#  Have done some analysis on sale of bikes using python if you to run the code then do dowloand the csv and code make sure to change to the file loaction in code where you will store this csv file
 
 ## STEP 1(Basic)
 
